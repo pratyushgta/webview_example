@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD_E4_WebView</string>
+    <string name="home_title">Keep monkeying</string>
+    <string name="home_desc">Prepare yourself for a sideshow of simian shenanigans that will make you question the very concept of evolution.
+        \n\nDiscover these and a whole bunch of other cheeky banana munchers at an anemul zone near you!</string>
+    <string name="title_activity_monke_on_the_web">MonkeOnTheWeb</string>
+    <string name="web_name">Monke Explorer</string>
+
+</resources>
